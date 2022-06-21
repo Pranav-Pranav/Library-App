@@ -1,0 +1,4 @@
+#Mon Jun 20 20:56:00 IST 2022
+base.0=C\:\\Users\\prana\\StudioProjects\\libraryapp\\android\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
